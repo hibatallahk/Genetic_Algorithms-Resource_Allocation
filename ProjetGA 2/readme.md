@@ -15,8 +15,8 @@ https://pypi.org/project/fuzzywuzzy/
 ```
 $bash setup.sh
 ```
-
+### This project was part of my 1st year Master's federated project.
 
 ### Author
 
-* **Hibatallah Kabbaj** - *Data Science Junior Researcher* -
+* **Hibatallah Kabbaj** - *PhD Candidate* -
